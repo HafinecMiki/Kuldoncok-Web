@@ -1,0 +1,14 @@
+div{
+	width : 150px;
+	height : 50px;	
+	background : grey;
+	text-align:center;
+	border: 2px black solid;
+}
+
+table,td{
+	border: 2px black solid;
+}
+body{
+	background-color: #989898;
+}
